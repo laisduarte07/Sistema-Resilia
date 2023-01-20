@@ -1,4 +1,4 @@
-# DataBase Sistema_Resilia
+# Banco de Dados Sistema_Resilia
 
 ## ✳ Proposta do projeto <br>
 ➥ A Resilia está pensando em lançar um novo sistema de
